@@ -1,0 +1,12 @@
+Hello : Hi! Welcome to the Weather prediction app! How can I help u? 
+
+This a text dedicated for a weather prediction application. 
+
+This weather will predict weather if there's rain or not tomorrow based on different features.
+
+RainTomorrow is highly correlated with RainToday so if it's raining today it will probably raintomorrow. 
+
+
+Clouds, Sunshine, Wind, Humidity, Temperature and Pressure are also important features to determine wether it's Raining Tomorrow or not. 
+
+Will it rain tomorrow? Well, huuuum, look at the weather today if it's rainy then tomorrow is rainy too. 

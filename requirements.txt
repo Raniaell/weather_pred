@@ -6,4 +6,5 @@ seaborn==0.12.2
 streamlit==1.25.0
 xgboost==1.7.6
 SpeechRecognition==3.10.0
+pipwin==0.5.2
 PyAudio @ file:///C:/Users/rania/pipwin/PyAudio-0.2.11-cp311-cp311-win_amd64.whl
